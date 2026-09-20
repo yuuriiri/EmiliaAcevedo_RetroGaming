@@ -1,0 +1,58 @@
+[
+    {
+        "nombre": "Zelda: Breath of the Wild",
+        "descripcion": "Explora el vasto reino de Hyrule en una de las mayores aventuras de Link.",
+        "precio": 39990,
+        "imagen": "https://assets-prd.ignimgs.com/2022/06/14/zelda-breath-of-the-wild-1655249167687.jpg",
+        "imagenHover": "https://nintendoeverything.com/wp-content/uploads/zelda-breath-wild-feb-22.jpg"
+    },
+    {
+        "nombre": "Monster Hunter Rise",
+        "descripcion": "Caza monstruos gigantes y mejora tu equipamiento.",
+        "precio": 34990,
+        "imagen": "https://assets-prd.ignimgs.com/2020/09/17/monster-hunter-rise-button-1600361562743.jpg?crop=1%3A1%2Csmart&format=jpg&auto=webp&quality=80",
+        "imagenHover": "https://preview.redd.it/monster-hunter-rise-magnamalo-screenshots-v0-5s1f121mjpa61.jpg?width=640&crop=smart&auto=webp&s=b27a20b71905cc13eea841a8686333ce64e7fb9f"
+    },
+    {
+        "nombre": "Monster Hunter Wilds",
+        "descripcion": "La nueva generación de cacería en mundos más dinámicos.",
+        "precio": 44990,
+        "imagen": "https://preview.redd.it/mh-wilds-box-art-revealed-v0-9p64xvod5uqd1.png?auto=webp&s=c9cb4edc4c55ffcec29eca374caf0164cf3d20b6",
+        "imagenHover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtC3LGYvbctAnJ2ip0ErgtNd2CAfjrn9fasx3idvLzA9lAq9zlqWfIJ9fJ&s=10"
+    },
+    {
+        "nombre": "The Last of Us Remastered",
+        "descripcion": "Una historia inolvidable de supervivencia y aventura.",
+        "precio": 29990,
+        "imagen": "https://assets-prd.ignimgs.com/2022/06/26/tlouremaster-1656279008629.jpg",
+        "imagenHover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9amMmdwmmpZGJj79v59MeLA1JZecNdtWOg2E2dUzolNjAlOdH__g3rcDQ&s=10"
+    },
+    {
+        "nombre": "Hollow Knight",
+        "descripcion": "Explora un vasto reino subterráneo lleno de criaturas y secretos.",
+        "precio": 12990,
+        "imagen": "https://assets.nintendo.eu/image/upload/f_auto,c_limit,w_992,q_auto:low/MNS/NOE/70010000003207/SQ_NSwitchDS_HollowKnight",
+        "imagenHover": "https://images.steamusercontent.com/ugc/9643894108139574902/3EEC1B2642499CBDBCE8110757FE410F1FB583EB/?imw=1024&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+        "nombre": "Elden Ring",
+        "descripcion": "Un mundo abierto de fantasía oscura creado por FromSoftware.",
+        "precio": 45990,
+        "imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2000/YMUoJUYNX0xWk6eTKuZLr5Iw.jpg",
+        "imagenHover": "https://www.dsogaming.com/wp-content/uploads/2021/08/Elden-Ring-new-screenshots-1.jpg"
+    },
+    {
+        "nombre": "Zelda: Tears of the Kingdom",
+        "descripcion": "La última entrega de la saga Zelda, con un mundo abierto y nuevas mecánicas.",
+        "precio": 42990,
+        "imagen": "https://images.launchbox-app.com//16e72707-5e1f-4277-8abb-bfba6917c003.jpg",
+        "imagenHover": "https://www.rpgfan.com/wp-content/uploads/2020/07/The-Legend-of-Zelda-Tears-of-the-Kingdom-Screenshot-158.jpg"
+    },
+    {
+        "nombre": "Silent Hill Remake",
+        "descripcion": "Un remake del clásico juego de terror psicológico.",
+        "precio": 37990,
+        "imagen": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2124490/capsule_616x353.jpg?t=1744248682",
+        "imagenHover": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2022/10/2-23.jpg?q=50&fit=crop&w=825&dpr=1.5"
+    }
+]
